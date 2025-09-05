@@ -1,24 +1,27 @@
 # ⚡ ThreatLogger X
 
-ThreatLogger X is a **full-stack security logging and monitoring tool** built with **FastAPI (backend)** and **React (frontend)**.  
-It helps developers and security teams to log, track, and visualize potential threats in real time with a clean and user-friendly dashboard.
+<p align="center">
+  <b>Full-Stack Security Logging & Monitoring Tool</b>  
+  <br>
+  Built with <b>FastAPI (Backend)</b> + <b>React (Frontend)</b>
+</p>
 
 ---
 
 ## 📖 About
 
-Cyber threats are increasing rapidly, and monitoring logs effectively is crucial for security.  
-**ThreatLogger X** provides a simple yet powerful interface to record and monitor logs, making it easier to identify and respond to suspicious activities.  
+🚀 **ThreatLogger X** is a modern full-stack project designed to make **threat logging and monitoring** simple, secure, and efficient.  
+With a clean UI and powerful backend, it helps in recording suspicious activities and visualizing logs in real-time.  
 
 ---
 
 ## 🚀 Features
-- 🔐 **Secure Login System** (Default credentials included)  
-- ⚡ **FastAPI Backend** – high-performance and scalable  
-- 🎨 **React Frontend** – modern and responsive UI  
-- 📊 **Real-time Logging Dashboard**  
-- 📝 **History & Log Tracking**  
-- 🖼️ **Screenshots Included for Quick Preview**  
+- 🔐 Secure Login System (with default credentials)  
+- ⚡ High-performance **FastAPI backend**  
+- 🎨 Responsive **React frontend**  
+- 📊 Real-time monitoring dashboard  
+- 📝 Log history tracking  
+- 🖼️ Preview screenshots included  
 
 ---
 
@@ -45,8 +48,7 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
-
-👉 Server will start at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+👉 Runs at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
@@ -58,13 +60,12 @@ npm install
 npm install react-scripts@5.0.1
 npm start
 ```
-
-👉 App will run at: [http://localhost:3000](http://localhost:3000)
+👉 Runs at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
 ## 🔑 Default Login Credentials
-Use the following credentials to log in:
+Use these credentials to log in:
 
 - **Username:** `admin`  
 - **Password:** `admin123`  
@@ -82,11 +83,9 @@ Use the following credentials to log in:
 
 ### 🔹 Backend
 <p align="center">
-  <img src="screenshot/backend1.png" width="45%"/>
-  <img src="screenshot/backend2.png" width="45%"/>
-</p>
-<p align="center">
-  <img src="screenshot/backend3.png" width="90%"/>
+  <img src="screenshot/backend1.png" width="30%"/>
+  <img src="screenshot/backend2.png" width="30%"/>
+  <img src="screenshot/backend3.png" width="40%"/>
 </p>
 
 ---
@@ -100,10 +99,12 @@ Use the following credentials to log in:
 
 ## 📧 Contact
 👤 **Author:** [Prasad Sarkate](https://github.com/Prasadsarkate)  
-📬 Feel free to reach out for feedback or collaboration!  
+📬 Feedbacks, suggestions, and contributions are always welcome!  
 
 ---
 
 ## 📝 Note
-⚠️ This project is built for **learning and development purposes**.  
-It is not intended for production use without proper security enhancements.  
+> ⚠️ **Disclaimer:** This project is for **learning and development purposes only**.  
+> Not recommended for production use without proper security improvements.  
+
+---
