@@ -2,3 +2,7 @@ fastapi>=0.95.0
 uvicorn>=0.20.0
 rich>=13.0.0
 Jinja2>=3.1.0
+python-jose>=3.3.0
+pydantic>=1.10.0
+pdfkit>=1.0.0
+watchdog>=3.0.0
