@@ -75,18 +75,18 @@ Use the following credentials to log in:
 
 ### 🔹 Frontend
 <p align="center">
-  <img src="screenshot/frontend/frontend1.png" width="30%"/>
-  <img src="screenshot/frontend/frontend2.png" width="30%"/>
-  <img src="screenshot/frontend/frontend3.png" width="30%"/>
+  <img src="screenshot/frontend1.png" width="30%"/>
+  <img src="screenshot/frontend2.png" width="30%"/>
+  <img src="screenshot/frontend3.png" width="30%"/>
 </p>
 
 ### 🔹 Backend
 <p align="center">
-  <img src="screenshot/backend/backend1.png" width="45%"/>
-  <img src="screenshot/backend/backend2.png" width="45%"/>
+  <img src="screenshot/backend1.png" width="45%"/>
+  <img src="screenshot/backend2.png" width="45%"/>
 </p>
 <p align="center">
-  <img src="screenshot/backend/backend3.png" width="90%"/>
+  <img src="screenshot/backend3.png" width="90%"/>
 </p>
 
 ---
