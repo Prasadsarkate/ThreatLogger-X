@@ -85,7 +85,7 @@ Use these credentials to log in:
 <p align="center">
   <img src="screenshot/backend1.png" width="30%"/>
   <img src="screenshot/backend2.png" width="30%"/>
-  <img src="screenshot/backend3.png" width="40%"/>
+  <img src="screenshot/backend3.png" width="30%"/>
 </p>
 
 ---
