@@ -74,7 +74,7 @@ source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
 pip install -r requirements.txt
-uvicorn main:app --reload
+uvicorn backend.app.main:app --reload
 ```
 👉 Runs at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
